@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOneiOS", "GameOneiOS\GameOneiOS.csproj", "{5978FEF6-B838-40B6-AFDF-CA18252B868D}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "GameOneSharedProject", "GameOneSharedProject\GameOneSharedProject.shproj", "{5E10485C-C6C7-44EF-B1B3-5CF23FEF32B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOneAndroid", "GameOneAndroid\GameOneAndroid.csproj", "{4FB29780-4EF1-4164-92C1-61405F41D196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB29780-4EF1-4164-92C1-61405F41D196}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{4FB29780-4EF1-4164-92C1-61405F41D196}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{4FB29780-4EF1-4164-92C1-61405F41D196}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{4FB29780-4EF1-4164-92C1-61405F41D196}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{4FB29780-4EF1-4164-92C1-61405F41D196}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{4FB29780-4EF1-4164-92C1-61405F41D196}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{4FB29780-4EF1-4164-92C1-61405F41D196}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{4FB29780-4EF1-4164-92C1-61405F41D196}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{4FB29780-4EF1-4164-92C1-61405F41D196}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{4FB29780-4EF1-4164-92C1-61405F41D196}.Release|iPhone.Build.0 = Release|Any CPU
+		{4FB29780-4EF1-4164-92C1-61405F41D196}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{4FB29780-4EF1-4164-92C1-61405F41D196}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{5978FEF6-B838-40B6-AFDF-CA18252B868D}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{5978FEF6-B838-40B6-AFDF-CA18252B868D}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{5978FEF6-B838-40B6-AFDF-CA18252B868D}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{5978FEF6-B838-40B6-AFDF-CA18252B868D}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{5978FEF6-B838-40B6-AFDF-CA18252B868D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{5978FEF6-B838-40B6-AFDF-CA18252B868D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{5978FEF6-B838-40B6-AFDF-CA18252B868D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{5978FEF6-B838-40B6-AFDF-CA18252B868D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{5978FEF6-B838-40B6-AFDF-CA18252B868D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{5978FEF6-B838-40B6-AFDF-CA18252B868D}.Release|iPhone.Build.0 = Release|iPhone
+		{5978FEF6-B838-40B6-AFDF-CA18252B868D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{5978FEF6-B838-40B6-AFDF-CA18252B868D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GameOneiOS\GameOneiOS.csproj
+	EndGlobalSection
+EndGlobal
